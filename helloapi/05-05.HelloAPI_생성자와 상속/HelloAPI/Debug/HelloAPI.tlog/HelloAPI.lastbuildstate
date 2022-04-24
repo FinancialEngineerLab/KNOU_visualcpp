@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|D:\VC++멀티강의2020\프로젝트 VS2019\01-02 디버그와 클래스 프로젝트-5강\05-05.HelloAPI_생성자와 상속\HelloAPI\|
