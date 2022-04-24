@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28527.54
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ball", "Ball.vcxproj", "{F9E349E6-7C4F-4C9F-A6CC-5DB4960D24D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E349E6-7C4F-4C9F-A6CC-5DB4960D24D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9E349E6-7C4F-4C9F-A6CC-5DB4960D24D7}.Debug|x86.Build.0 = Debug|Win32
+		{F9E349E6-7C4F-4C9F-A6CC-5DB4960D24D7}.Release|x86.ActiveCfg = Release|Win32
+		{F9E349E6-7C4F-4C9F-A6CC-5DB4960D24D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFC4B98-5C12-4702-B0D9-FCDD7A3774F8}
+	EndGlobalSection
+EndGlobal
