@@ -60,7 +60,7 @@ int APIENTRY WinMain(HINSTANCE hInstance,
 LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage,
 	WPARAM wParam, LPARAM lParam)
 {
-	LPCTSTR text = L"학번: 202134-365622 이름: 신현진";
+	LPCTSTR text = L"학번:이름: ";
 	switch (iMessage) {
 	case WM_PAINT:
 	{
